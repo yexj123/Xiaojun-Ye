@@ -2,7 +2,7 @@
 
 ###  Academic Profile
 - **Master's Student in AI & Robotics** at the **University of Padua** (Unipd).
-- **B.Sc. in Ingegneria Informatica (Information Engineering)** from the University of Padua.
+- **B.Sc. in Ingegneria Informatica (Computer Engineering)** from the University of Padua.
 
 ###  Tech Stack & Tools
 - **Languages:** Python.
