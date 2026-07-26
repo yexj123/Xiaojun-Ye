@@ -6,7 +6,7 @@
 
 ###  Tech Stack & Tools
 - **Languages:** Python.
-- **AI Frameworks:** PyTorch, Scikit-learn, NumPy, Pandas.
+- **AI Frameworks:** PyTorch, Scikit-learn, NumPy, Pandas, OpenAI API.
 - **DevOps/Tools:** Git, Virtual Environments (conda), Claude Code.
 
 ###  Problem Solving
