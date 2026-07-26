@@ -16,5 +16,7 @@
 -  **[Pytorch](https://github.com/yexj123/torch):** Comparative study of Pytorch.
 -  **[Scikit](https://github.com/yexj123/ml-exercises):** Comparative study of Scikit-learn.
 -  **[LLM chatbot fine tuning](https://github.com/yexj123/chatbot):** Chatbot fine tuning based on Hugging Face NLP Course
+-  **[Simple Reasearch Assistant](https://github.com/yexj123/simple_research_assistant):** A progressive, step-by-step exploration of agentic design patterns in Python focused on OpenAI API.
+-  
 ###  How to reach me:
 - **Email:** [xiaojun.ye1312@gmail.com]
