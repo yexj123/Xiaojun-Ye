@@ -15,7 +15,7 @@
 ### Featured Projects
 - **[Pytorch](https://github.com/yexj123/torch):** Comparative study of Pytorch.
 - **[Scikit](https://github.com/yexj123/ml-exercises):** Comparative study of Scikit-learn.
-- **[AI Portfolio Monorepo](https://github.com/yexj123/ai-portfolio-monorepo):** Unified repository containing agentic systems and fine-tuning projects:
+- **[AI Portfolio Monorepo](https://github.com/yexj123/ai-portfolio-monorepo):** Unified repository containing agentic systems and fine-tuning projects for learning:
   - **[LLM Chatbot Fine-Tuning](https://github.com/yexj123/ai-portfolio-monorepo/tree/main/projects/chatbot-finetuned):** Chatbot fine-tuning based on the Hugging Face NLP Course.
   - **[Simple Research Assistant](https://github.com/yexj123/ai-portfolio-monorepo/tree/main/projects/simple_research_assistant):** Progressive exploration of agentic design patterns with OpenAI API.
   - **[Research Assistant with MCP](https://github.com/yexj123/ai-portfolio-monorepo/tree/main/projects/simple_research_assistant_mcp):** Agentic workflows integrated with FastMCP, standard stdio servers, and hosted remote tools.
