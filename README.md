@@ -9,8 +9,8 @@
 - **AI Frameworks:** PyTorch, Scikit-learn, NumPy, Pandas, OpenAI API.
 - **DevOps/Tools:** Git, Virtual Environments (conda), Claude Code.
 
-###  Problem Solving
-- **LeetCode:** Whenever it comes to mind I go to solve some LC problems.
+### Competitions:
+- **HackerRank Orchestrate (Sept 2026)**: Ranked **191 / 3,062**, built an intent & purchase prediction pipeline combining deterministic rule-based triage with a single-layer LLM decision architecture.
 
 ### Featured Projects
 - **[Pytorch](https://github.com/yexj123/torch):** Comparative study of Pytorch.
