@@ -7,7 +7,7 @@
 ###  Tech Stack & Tools
 - **Languages:** Python.
 - **AI Frameworks:** PyTorch, Scikit-learn, NumPy, Pandas, OpenAI API, LangGraph
-- **DevOps/Tools:** Git, Virtual Environments (conda), Claude Code.
+- **DevOps/Tools:** Git, Virtual Environments (conda), Claude Code, LLMs
 
 ### Competitions:
 - **HackerRank Orchestrate (Sept 2026)**: Ranked **191 / 3,062**, built an intent & purchase prediction pipeline combining deterministic rule-based triage with a single-layer LLM decision architecture.
