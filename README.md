@@ -47,7 +47,7 @@ exploration of agentic design patterns with the OpenAI API.
 MCP](https://github.com/yexj123/ai-portfolio-monorepo/tree/main/projects/simple_research_assistant_mcp):** agentic workflows
 integrated with FastMCP, stdio servers, and hosted remote tools.
 - **[Thesis Assistant with LangGraph](https://github.com/yexj123/lang_graph_assistant):** earlier
-  LangGraph agent for thesis writing. (Work in progress.)
+  LangGraph agent for thesis writing.
 - **[PyTorch exercises](https://github.com/yexj123/torch)** · **[Scikit-learn
 exercises](https://github.com/yexj123/ml-exercises):** comparative studies.
 
