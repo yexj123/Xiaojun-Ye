@@ -6,10 +6,8 @@
 
 ### Tech Stack & Tools
 - **Languages:** Python
-- **AI / Agents:** LangGraph, OpenAI API, DeepSeek, PyTorch, Scikit-learn, NumPy, Pandas
-- **Backend:** FastAPI, SQLite (FTS5 / BM25), Server-Sent Events, Jinja2 + htmx
-- **Testing & Eval:** pytest, DeepEval, paired A/B evaluation harnesses
-- **Tools:** Git, uv, conda, Claude Code, MCP
+- **Libraries:** LangGraph, OpenAI API, DeepSeek, PyTorch, Scikit-learn, NumPy, Pandas
+- **Tools:** Git, uv, conda, Claude Code
 
 ### Competitions
 - **HackerRank Orchestrate (Sept 2026):** Ranked **191 / 3,062**, built an intent & purchase
