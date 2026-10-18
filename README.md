@@ -16,22 +16,8 @@
 
 ### Main Project
 
-**[deep-research](https://github.com/yexj123/deep-research)** — a self-hosted deep research
-agent. Give it a research question: it plans subtopics, searches arXiv for each in parallel,
-and writes a literature review that **cites only papers it actually retrieved**.
-Python · LangGraph · FastAPI · SQLite. No build step, no `node_modules`.
-
-Built to be **measured, not demoed**:
-
-- Recursive decomposition, deeper search and full-text retrieval were each implemented,
-  evaluated against a frozen question set, and found **not** to improve review quality — so
-  the agent that ships is *cheaper than its first design*, with no measured quality cost.
-- The local BM25 corpus did pay, in cost rather than quality: **65 arXiv requests became 1
-  and wall clock fell 65%**, with every quality metric unchanged.
-- 140 committed evaluation recordings regenerate every table in the findings with **no API
-  key**, so the claims are reproducible by anyone who clones it.
-- Grounded citations, streamed token-by-token over SSE, resumable runs via LangGraph
-  checkpoints, and a multi-turn follow-up mode. ~975 tests.
+**[Thesis Assistant with LangGraph](https://github.com/yexj123/lang_graph_assistant):** 
+  LangGraph agent for thesis writing.
 
 ### Learning & Coursework
 - **[AI Portfolio Monorepo](https://github.com/yexj123/ai-portfolio-monorepo):** agentic
